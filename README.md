@@ -1,2 +1,2 @@
 # web design website
- this web site is create just for fun an learing
+ this web site is created just for fun an learing
